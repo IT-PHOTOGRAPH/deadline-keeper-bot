@@ -1,0 +1,18 @@
+﻿id,indicator,value,unit,period,source,url,kind
+students_higher_ed,Студенты вузов в России,4.66,млн чел,01.09.2025,Минобрнауки (через Т-Ж),https://t-j.ru/statistic-univercitites/,fact
+students_higher_ed_alt,Студенты вузов в России (другая оценка),4.3,млн чел,2025,BusinesStat,https://businesstat.ru/news/higher_education/,fact
+students_spo,Студенты колледжей (СПО),3.75,млн чел,2025,BusinesStat (прогноз),https://marketing.rbc.ru/articles/12851/,forecast
+college_admission,Приём в колледжи,1.1,млн чел,2025,Минпросвещения (по сообщению СМИ),https://peterburg2.ru/news/v-rossiyskih-kolledzhah-zafiksirovan-rekordnyy-naplyv-studentov-za-desyatiletiya-188101.html,fact
+tg_daily_mar2026,Среднесуточный охват Telegram в РФ,72.2,млн чел,март 2026,Mediascope (через 3DNews),https://3dnews.ru/1140706/izza-blokirovki-trafik-telegram-v-rossii-ruhnul-v-martena-18-no-eto-ne-pomoglomaksu-stat-samim-populyarnim-messendgerom,fact
+tg_monthly_mar2026,Месячный охват Telegram в РФ,94.27,млн чел,март 2026,Mediascope (через 3DNews),https://3dnews.ru/1140706/izza-blokirovki-trafik-telegram-v-rossii-ruhnul-v-martena-18-no-eto-ne-pomoglomaksu-stat-samim-populyarnim-messendgerom,fact
+tg_daily_aug2026,Среднесуточный охват Telegram в РФ,33.8,млн чел,август 2026,Mediascope (через журнал «Эксперт»),https://expert.ru/tekhnologii/kak-max-obognal-telegram,fact
+max_monthly_jun2026,Месячный охват мессенджера Max,86.2,млн чел,июнь 2026,Mediascope (через Kazan First),https://kazanfirst.ru/news/max-obognal-telegram-po-ohvatu-i-stal-samym-populyarnim-messendzherom,fact
+on_time_share,"Доля людей, завершающих задачи вовремя",20.0,%,н/д,Исследование SingularityApp (не только студенты),https://skillbox.ru/media/management/razbiraemsya-pochemu-my-ne-uspevaem/,sample
+tried_selforg,"Студенты, пытавшиеся улучшить самоорганизацию",53.0,%,2025,"МГУ, конф. «Ломоносов-2025» (небольшой опрос)",https://lomonosov.msu.ru/archive/Lomonosov_2025/data/36800/185328_uid591085_report.pdf,sample
+students_working,"Студенты, уже берущие подработку",45.0,%,2026,Авито Подработка (CNews),https://www.cnews.ru/news/line/2026-04-09_avito_podrabotka_srednyaya,fact
+students_plan_work,"Студенты, планирующие найти подработку",34.0,%,2026,Авито Подработка (CNews),https://biz.cnews.ru/news/line/2026-04-09_avito_podrabotka_srednyaya,fact
+side_job_hours,Время на подработку в неделю,11.0,ч,2026,Авито Подработка (CNews),https://biz.cnews.ru/news/line/2026-04-09_avito_podrabotka_srednyaya,fact
+side_job_pay,Желаемый доход от подработки,35000.0,руб/мес,2026,"Авито Подработка (CNews), «почти 35 000»",https://www.cnews.ru/news/line/2026-04-09_avito_podrabotka_srednyaya,fact
+todoist_pro_month,"Todoist Pro, помесячно",7.0,USD/мес,с 10.12.2025,Справка Todoist,https://www.todoist.com/ru/help/account-and-billing/plans/todoist-pro-pricing-update-in-2025-bxBvHZuJZ,fact
+todoist_pro_year,"Todoist Pro, годовая",60.0,USD/год,с 10.12.2025,Справка Todoist,https://www.todoist.com/ru/help/account-and-billing/plans/todoist-pro-pricing-update-in-2025-bxBvHZuJZ,fact
+ticktick_premium_year,"TickTick Premium, годовая",35.99,USD/год,2026,Обзор ClickUp,https://clickup.com/learn/topic/task-management/tools/ticktick/,fact
